@@ -1,0 +1,5 @@
+{
+  "name": "EduLink AI",
+  "description": "Data Driven Study Planning System with AI-powered timetable generation, voice assistant, and performance analytics.",
+  "requestFramePermissions": ["microphone"]
+}
